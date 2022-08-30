@@ -1,0 +1,11 @@
+name: xbcf_demo
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python>=3.8
+  - xbcausalforest
+  - jupyter
+  - numpy
+  - seaborn
+  - matplotlib
